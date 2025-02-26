@@ -5,15 +5,8 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI, ...**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://github.com/solamente0)
-
-- 📝 I regularly write articles on [Click Here](https://github.com/solamente0)
 
 - 💬 Ask me about **Python, Django, REST API, AI ChatBots...**
-
-- 📫 How to reach me **lorashinedev@gmail.com**
-
-- 📄 Know about my experiences [Click Here](https://github.com/solamente0)
 
 - ⚡ Fun fact **🤍 If you are not ready for the day, It can not always be night! 🤍**
 
