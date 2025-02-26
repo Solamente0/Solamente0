@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI, ...**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://cvbuilder.me/portfolio/a51ue4/en)
+- 👨‍💻 All of my projects are available at [Click Here](https://github.com/solamente0)
 
 - 📝 I regularly write articles on [Click Here](https://github.com/solamente0)
 
