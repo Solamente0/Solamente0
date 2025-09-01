@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Dynamic and results-driven Senior Full Stack Engineer with 7+ years of expertise in developing robust, scalable web and mobile projects including AI-driven applications. Proficient in Python, Django, React, and AI/NLP, with a proven track record of leading end-to-end project lifecycles in Agile/Scrum environments. Strong background in cloud services (AWS, Azure) and DevOps practices (Docker, Kubernetes, CI/CD). Adept at optimizing performance and security, implementing OAuth2 and role-based access control.</h3>
+<h3 align="center">Dynamic and results-driven Senior Full Stack Engineer with 9+ years of expertise in developing robust, scalable web and mobile projects including AI-driven applications. Proficient in Python, Django, React, and AI/NLP, with a proven track record of leading end-to-end project lifecycles in Agile/Scrum environments. Strong background in cloud services (AWS, Azure) and DevOps practices (Docker, Kubernetes, CI/CD). Adept at optimizing performance and security, implementing OAuth2 and role-based access control.</h3>
 
 - 🔭 I’m currently working on **Own Projects.**
 
